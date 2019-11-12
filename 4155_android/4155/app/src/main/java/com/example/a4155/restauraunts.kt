@@ -55,9 +55,51 @@ class restauraunts : AppCompatActivity() {
             startActivity(intent)
         }
 
+        // Press Crown commons button to SubPage
+        val crown_button = findViewById<Button>(R.id.crownCmmns)
+        crown_button.setOnClickListener{
+            val intent = Intent(this@restauraunts, crownCommons::class.java)
+            startActivity(intent)
+        }
 
-        // Add other restaurants onClick function here perhaps maybe if necessary
-        // or maybe just work on these 6 for now
+        // Press Panda express button to SubPage
+        val panda_button = findViewById<Button>(R.id.pandaButton)
+        panda_button.setOnClickListener{
+            val intent = Intent(this@restauraunts, PandaExpress::class.java)
+            startActivity(intent)
+        }
+
+        // Press Fusion button to SubPage
+        val fusion_button = findViewById<Button>(R.id.fusionButton)
+        fusion_button.setOnClickListener{
+            val intent = Intent(this@restauraunts, FusionCafe::class.java)
+            startActivity(intent)
+        }
+
+        // Press Domino's button to SubPage
+        val dom_button = findViewById<Button>(R.id.dominosButton)
+        dom_button.setOnClickListener{
+            val intent = Intent(this@restauraunts, Dominos::class.java)
+            startActivity(intent)
+        }
+
+        // Press Salsarita's button to SubPage
+        val salsa_button = findViewById<Button>(R.id.salsaritasButton)
+        salsa_button.setOnClickListener{
+            val intent = Intent(this@restauraunts, Salsaritas::class.java)
+            startActivity(intent)
+        }
+
+        // Press Mamma Leone's button to SubPage
+        val leones_button = findViewById<Button>(R.id.leonesButton)
+        leones_button.setOnClickListener{
+            val intent = Intent(this@restauraunts, mammaLeones::class.java)
+            startActivity(intent)
+        }
+
+
+
+
     }
 
 }
