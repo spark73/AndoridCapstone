@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd20a6eb-5bfc-4a6b-bb45-175d52801318" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4155/app/src/main/java/com/example/a4155/data/network/ConnectionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4155/app/src/main/java/com/example/a4155/data/network/WIFIBroadcastReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4155/app/src/main/res/layout/activity_connection.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/4155_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4155_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4155/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4155/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4155/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/4155/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4155/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4155/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4155/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/4155/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -137,6 +142,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,19 +190,23 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16280295" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16471216" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Resources Explorer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32936078" />
-      <window_info anchor="bottom" id="TODO" order="1" sideWeight="0.49841937" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="1" sideWeight="0.4978678" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5015806" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
