@@ -7,7 +7,6 @@ import android.widget.Button
 import com.example.a4155.ui.login.Home
 import com.example.a4155.ui.login.LoginActivity
 import com.example.a4155.ui.login.Profile
-import com.example.a4155.ui.login.google_signin
 
 class MainActivity : AppCompatActivity() {
 
@@ -38,13 +37,11 @@ class MainActivity : AppCompatActivity() {
         val button1 = findViewById<Button>(R.id.SignIn)
         button1.setOnClickListener{
             val intent = Intent(this@MainActivity,LoginActivity::class.java)
-
-            // Launches Google Sign In
-            //val intent = Intent(this@MainActivity,google_signin::class.java)
             startActivity(intent)
         }
-
-
+        val stream = assets.open("menu.csv")
+        Restaurant.List = Restaurant.Load(stream)
+        stream.close()
     }
 
 

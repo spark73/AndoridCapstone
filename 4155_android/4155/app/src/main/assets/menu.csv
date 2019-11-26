@@ -1,0 +1,720 @@
+Restaurant_name,Restaurant_Categories_name,Restaurant_Categories_Food_Item_name
+Forty-Niner Diner,,
+Bistro 49,Sandwiches,Bistro Burger
+Bistro 49,Sandwiches,Chicken Club Sandwich
+Bistro 49,Sandwiches,Maryland Crab Cake
+Bistro 49,Sandwiches,Grilled Veggie Sandwich
+Bistro 49,Sandwiches,Grilled Filet Sandwich
+Bistro 49,Salads,49er Salad
+Bistro 49,Salads,Taco Tower
+Bistro 49,Salads,Goat Cheese Salad
+Bistro 49,Starters,Buffalo Chicken Dip
+Bistro 49,Starters,Roasted Crab & Poblano Soup
+Bistro 49,Starters,Chicken Pot Pie Soup
+Bistro 49,Entrees,Horseradish Crusted Salmon
+Bistro 49,Entrees,Pappardelle & Fig
+Bistro 49,Entrees,Chicken Saltimbocca
+Bistro 49,Entrees,Griled Petite Filet
+Bojangles,Biscuits,"Bacon, Egg & Cheese"
+Bojangles,Biscuits,Cajun Filet Biscuit
+Bojangles,Biscuits,Country Ham Biscuit
+Bojangles,Biscuits,Egg & Cheese Biscuit
+Bojangles,Biscuits,Gravy Biscuit
+Bojangles,Biscuits,Plain Biscuit
+Bojangles,Biscuits,Sausage Biscuit
+Bojangles,Biscuits,Steak Biscuit
+Bojangles,Sandwiches,Cajun Filet Club Sandwich
+Bojangles,Sandwiches,Cajun Filet Sandwich
+Bojangles,Sandwiches,Grilled Chicken Club
+Bojangles,Sandwiches,Grilled Chicken Sandwich
+Bojangles,Salads,Chicken Supreme Salad
+Bojangles,Salads,Garden Salad
+Bojangles,Salads,Grilled Chicken Salad
+Bojangles,Chicken,Breast
+Bojangles,Chicken,Leg
+Bojangles,Chicken,Thigh
+Bojangles,Chicken,Wing
+Bojangles,Chicken,Supreme
+Bojangles,Chicken,Roasted Chicken Bites
+Bojangles,Boxes,12 piece & 6 biscuit box
+Bojangles,Boxes,12 piece Supremes box
+Bojangles,Boxes,20 piece & 10 biscut box
+Bojangles,Boxes,8 piece & 4 biscuit box
+Bojangles,Fixin's,Bo-Tato Rounds
+Bojangles,Fixin's,Bo-Tato Rounds (medium)
+Bojangles,Fixin's,Bo-Tato Rounds (picnic)
+Bojangles,Fixin's,Seasoned Fries
+Bojangles,Fixin's,Seasoned Fries (medium)
+Bojangles,Fixin's,Seasoned Fries (picnic)
+Bojangles,Dinners,1 Breast Dinner
+Bojangles,Dinners,2 Breast Dinner
+Bojangles,Dinners,2 Piece Dinner
+Bojangles,Dinners,3 Piece Dinner
+Bojangles,Dinners,3 Wing Dinner
+Bojangles,Dinners,2 Piece Dinner (Breast & Wing)
+Bojangles,Dinners,2 Piece Dinner (Leg & Thigh)
+Bojangles,Dinners,3 Piece Dinner (Leg & 2 Thighs)
+Bojangles,Desserts,Bo-Berry Biscuit
+Bojangles,Desserts,Cinnamon Biscuit
+Bojangles,Desserts,Sweet Potato Pie
+Bojangles,Drinks,Sweet Iced Tea
+Bojangles,Drinks,Sweet Iced Tea (22oz)
+Bojangles,Drinks,Sweet Iced Tea (32oz)
+Bojangles,Drinks,Unsweetened Iced Tea
+Bojangles,Drinks,Unsweetened Iced Tea (22oz)
+Bojangles,Drinks,Unsweetened Iced Tea (32oz)
+Burger 704,Burgers,Burger - Single
+Burger 704,Burgers,Burger - Double
+Burger 704,Burgers,Burger - Triple
+Burger 704,Sides,Tater Tots
+Burger 704,Combos,Burger - Single Combo
+Burger 704,Combos,Burger - Double Combo
+Burger 704,Combos,Burger - Triple Combo
+Center City Einstein Bagel Bros.,Gourmet Bagels,Power Bagel
+Center City Einstein Bagel Bros.,Classic Egg Sandwiches,Applewood Bacon & Cheddar
+Center City Einstein Bagel Bros.,Classic Egg Sandwiches,Turkey Sausage & Cheddar
+Center City Einstein Bagel Bros.,Classic Egg Sandwiches,Ham & Swiss
+Center City Einstein Bagel Bros.,Classic Egg Sandwiches,Egg (White Only)
+Center City Einstein Bagel Bros.,Deli Sandwiches,Turkey Breast
+Center City Einstein Bagel Bros.,Deli Sandwiches,Ham
+Center City Einstein Bagel Bros.,Deli Sandwiches,Chicken Salad
+Center City Einstein Bagel Bros.,Grab and Go,Deli Ham Sandwich
+Center City Einstein Bagel Bros.,Grab and Go,Roasted Turkey Sandwich
+Center City Einstein Bagel Bros.,Classic Bagels,Plain
+Center City Einstein Bagel Bros.,Classic Bagels,Honey Whole Wheat
+Center City Einstein Bagel Bros.,Classic Bagels,Everything
+Center City Einstein Bagel Bros.,Classic Bagels,Cinnamon Raisin
+Center City Einstein Bagel Bros.,Classic Bagels,Sesame
+Center City Einstein Bagel Bros.,Hot Sandwiches,Italian Chicken on Potato Roll
+Center City Einstein Bagel Bros.,Hot Sandwiches,Turkey Club Panini
+Center City Einstein Bagel Bros.,Signature Egg Sandwiches,Santa Fe Wrap
+Center City Einstein Bagel Bros.,Signature Bagels,Blueberry
+Center City Einstein Bagel Bros.,Signature Bagels,Chocolate Chip
+Center City Einstein Bagel Bros.,Signature Bagels,Cinnamon Sugar
+Center City Einstein Bagel Bros.,Eggs,1 Fresh Cracked Eggs
+Chick-fil-a,Classics,Chicken Sandwich
+Chick-fil-a,Classics,Deluxe Chicken Sandwich
+Chick-fil-a,Classics,Spicy Chicken Sandwich
+Chick-fil-a,Classics,Spicy Chicken Sandwich Deluxe
+Chick-fil-a,Classics,Chargrilled Chicken Sandwich
+Chick-fil-a,Classics,Chargrilled Chicken Club Sandwich
+Chick-fil-a,Classics,Nuggets
+Chick-fil-a,Classics,Chick-n-Strips
+Chick-fil-a,Wraps,Chargrilled Chicken Cool Wrap
+Chick-fil-a,Wraps,Chicken Caesar Cool Wrap
+Chick-fil-a,Wraps,Spicy Chicken Cool Wrap
+Chick-fil-a,Wraps,Grilled Chicken Cool Wrap
+Chick-fil-a,Salads,Chargrilled & Fruit Salad
+Chick-fil-a,Salads,Chargrilled Chicken Garden Salad
+Chick-fil-a,Salads,Chick-n-Strips Salad
+Chick-fil-a,Salads,Southwest Chargrilled Salad
+Chick-fil-a,Salads,Tortilla Strips
+Chick-fil-a,Salads,Garlic and Butter Croutons
+Chick-fil-a,Salads,Harvest Nut Granola
+Chick-fil-a,Salads,Honey Roasted Sunflower Kernels
+Chick-fil-a,Salads,Grilled Market Salad
+Chick-fil-a,Sides,Waffle Potato Fries
+Chick-fil-a,Breakfast,Spicy Chicken Biscuit
+Chick-fil-a,Breakfast,Chick-n-Minis
+Chick-fil-a,Breakfast,Hashbrowns
+Chick-fil-a,Breakfast,Sausage Biscuit
+Chick-fil-a,Beverages,Diet Coke
+Chick-fil-a,Beverages,Lemonade
+Chick-fil-a,Beverages,Iced Tea
+Chick-fil-a,Beverages,Diet Lemonade
+Chick-fil-a,Beverages,Coca-Cola
+Chick-fil-a,Beverages,Dr. Pepper
+Chick-fil-a,Beverages,Dasani Bottled Water
+Chick-fil-a,Beverages,Simply Orange Juice
+Chick-fil-a,Beverages,100% Colombian Coffee
+Chick-fil-a,Dressings and Sauces,Barbecue Sauce
+Chick-fil-a,Dressings and Sauces,Blue Cheese Dressing
+Chick-fil-a,Dressings and Sauces,Buffalo Sauce
+Chick-fil-a,Dressings and Sauces,Buttermilk Ranch Sauce
+Chick-fil-a,Dressings and Sauces,Caesar Dressing
+Chick-fil-a,Dressings and Sauces,Chick-fil-A Sauce
+Chick-fil-a,Dressings and Sauces,Fat Free Honey Mustard Dressing
+Chick-fil-a,Dressings and Sauces,Honey Mustard Sauce
+Chick-fil-a,Dressings and Sauces,Honey Roasted BBQ Sauce
+Chick-fil-a,Dressings and Sauces,Light Italian Dressing
+Chick-fil-a,Dressings and Sauces,Polynesian Sauce
+Chick-fil-a,Dressings and Sauces,Reduced Fat Berry Balsamic Vinaigrette
+Chick-fil-a,Dressings and Sauces,Spicy Dressing
+Chick-fil-a,Dressings and Sauces,Thousand Island Dressing
+Chick-fil-a,Dressings and Sauces,Mayonnaise
+Crown Commons,Kitchen,BBQ Rotisserie Chicken
+Crown Commons,Kitchen,Signature Mac & Cheese
+Crown Commons,Kitchen,Steamed Broccoli
+Crown Commons,Kitchen,Grilled Vegetables
+Crown Commons,Kitchen,Garlic Cheese Biscuit
+Crown Commons,Hot Flats,Hamburger Patty
+Crown Commons,Hot Flats,Grilled Chicken
+Crown Commons,Hot Flats,French Fries
+Crown Commons,Hot Flats,Wheat Hamburger Bun
+Crown Commons,Hot Flats,American Cheese Slice
+Crown Commons,Hot Flats,Sliced Tomatoes
+Crown Commons,Hot Flats,Sliced Dill Pickles
+Crown Commons,Hot Flats,Red Onion Slice
+Crown Commons,Hot Flats,Lettuce Leaf
+Crown Commons,Hot Flats,Grilled Vegan Burgers
+Crown Commons,Burning Stone,Cheese Pizza
+Crown Commons,Burning Stone,Pepperoni Pizza
+Crown Commons,Burning Stone,Crumbled Dried Oregano
+Crown Commons,Burning Stone,Crushed Red Pepper
+Crown Commons,Burning Stone,Grated Parmesan Cheese
+Crown Commons,Chef Tables,Penne Pasta
+Crown Commons,Chef Tables,Creamy Pesto Sauce
+Crown Commons,Chef Tables,Marinara Sauce
+Crown Commons,Chef Tables,Cubed Tofu
+Crown Commons,Chef Tables,Broccoli Florets
+Crown Commons,Chef Tables,Chopped Green Bell Pepper
+Crown Commons,Chef Tables,Diced Yellow Squash
+Crown Commons,Chef Tables,Sliced Sun-Dried Tomatoes
+Erbert & Gerbert's,,
+Forty Niner Diner,,
+Fretwell Cafe,Soup,Potato Leek Soup
+Fretwell Cafe,Soup,Curried Rice & Lentil Soup
+Fusion Cafe @ Portal,,
+Gold Room,Buffet,Soft Shell Beef Taco
+Gold Room,Buffet,Savannah Red Rice
+Gold Room,Buffet,Fried Plantains
+Gold Room,Buffet,Cheese Sauce
+Gold Room,Buffet,spicy black beans
+Gold Room,Buffet,Roasted Vegetable Salad
+Library Cafe,Soup,Potato Leek Soup
+Library Cafe,Soup,Curried Rice & Lentil Soup
+Main Street Bubble Tea,Refreshers,"Green Tea, Apple & Honeydew"
+Main Street Bubble Tea,Refreshers,"Black Tea, Mango & Passionfruit"
+Main Street Bubble Tea,Refreshers,"Black Tea, Raspberry & Mango"
+Main Street Bubble Tea,Refreshers,"Hibiscus, Lychee & Passionfruit"
+Main Street Bubble Tea,Refreshers,Green Tea & Lychee
+Main Street Bubble Tea,Milk Teas,Taro
+Main Street Bubble Tea,Milk Teas,Thai Tea
+Main Street Bubble Tea,Milk Teas,Coffee
+Main Street Bubble Tea,Milk Teas,Matcha
+Main Street Bubble Tea,Milk Teas,Strawberry
+Main Street Bubble Tea,Fruit Teas,49er Green
+Main Street Bubble Tea,Fruit Teas,Island Paradise
+Main Street Bubble Tea,Fruit Teas,Tropical Explosion
+Main Street Bubble Tea,Fruit Teas,Very Berry
+Main Street Bubble Tea,Fruit Teas,Fruit Bomb
+Mamma Leone's,Sandwiches & Salads,Meatball Hero
+Mamma Leone's,Sandwiches & Salads,Grilled Vegetable Hero
+Mamma Leone's,Sandwiches & Salads,Chicken Parmesan Hero
+Mamma Leone's,Sandwiches & Salads,Sicilian Salad
+Mamma Leone's,Pasta,Mamma Leone's Lasagna
+Mamma Leone's,Pasta,Tortellini Primavera
+Mamma Leone's,Pasta,Spaghetti & Meatballs
+Mamma Leone's,Pasta,Chicken Parmigiana
+Mamma Leone's,Pizza,Cheese Pizza
+Mamma Leone's,Pizza,Pepperoni Pizza
+Mamma Leone's,Pizza,Italian Sausage Pizza
+Mamma Leone's,Pizza,Fully Loaded Pizza
+Mamma Leone's,Pizza,Margherita Pizza
+Mamma Leone's,Pizza,BBQ Chicken Pizza
+Mamma Leone's,Pizza,Just Veggin'
+Mamma Leone's,Pizza,Steak Pizzaiola
+Mamma Leone's,Calzones,Cheese Calzone
+Mamma Leone's,Calzones,Pepperoni Calzone
+Mamma Leone's,Calzones,Italian Sausage Calzone
+Mamma Leone's,Calzones,Fully Loaded Calzone
+Mamma Leone's,Calzones,Margherita Calzone
+Mamma Leone's,Calzones,BBQ Chicken Calzone
+Mamma Leone's,Calzones,Just Veggin Calzone
+Mamma Leone's,Calzones,Stak Pizzaiola Calzone
+Mamma Leone's,Sides,Garlic Breadsticks with Marinara
+Mamma Leone's,Sides,Mamma Leone's Marinara
+Mamma Leone's,Sides,Garlic Cream Sauce
+Market on Craver,,
+Mondo's,,
+Panda Express,Rice & Noodles,Chow Mein
+Panda Express,Rice & Noodles,Fried Rice
+Panda Express,Rice & Noodles,Steamed Rice
+Panda Express,Veggies,Mixed Veggies (Side)
+Panda Express,Veggies,Mixed Veggies (Entrée)
+Panda Express,Chicken,Black Pepper Chicken
+Panda Express,Chicken,Orange Chicken
+Panda Express,Chicken Breast,SweetFire Chicken Breast™
+Panda Express,Chicken Breast,Sweet & Sour Chicken Breast
+Panda Express,Chicken Breast,Firecracker Chicken Breast™
+Panda Express,Beef,Bejing Beef™
+Panda Express,Shrimp,Crispy Shrimp
+Panda Express,Shrimp,Honey Walnut Shrimp
+Panda Express,Appetizers,Chicken Egg Roll
+Panda Express,Appetizers,Cream Cheese Rangoon
+Panda Express,Appetizers,Veggie Spring Roll
+Panda Express,Soup,Hot & Sour Soup
+Panda Express,Sauces & Cookies,Mandarin Sauce
+Panda Express,Sauces & Cookies,Sweet & Sour Sauce
+Panda Express,Sauces & Cookies,Fortune Cookie
+Prospector,Soup,Potato Leek Soup
+Prospector,Soup,Curried Rice & Lentil Soup
+SU Einstein Bagel Bros.,Gourmet Bagels,Power Bagel
+SU Einstein Bagel Bros.,Classic Egg Sandwiches,Applewood Bacon & Cheddar
+SU Einstein Bagel Bros.,Classic Egg Sandwiches,Turkey Sausage & Cheddar
+SU Einstein Bagel Bros.,Classic Egg Sandwiches,Ham & Swiss
+SU Einstein Bagel Bros.,Classic Egg Sandwiches,Egg (White Only)
+SU Einstein Bagel Bros.,Signature Sandwiches,Nova Lox & Bagel
+SU Einstein Bagel Bros.,Signature Sandwiches,Albacore Tuna Salad on Multigrain
+SU Einstein Bagel Bros.,Signature Sandwiches,Hummus Veg Out on Sesame
+SU Einstein Bagel Bros.,Signature Sandwiches,Turkey & Cheddar
+SU Einstein Bagel Bros.,Signature Sandwiches,Ham & Swiss
+SU Einstein Bagel Bros.,Deli Sandwiches,Turkey Breast
+SU Einstein Bagel Bros.,Deli Sandwiches,Ham
+SU Einstein Bagel Bros.,Deli Sandwiches,Chicken Salad
+SU Einstein Bagel Bros.,Grab and Go,Deli Ham Sandwich
+SU Einstein Bagel Bros.,Grab and Go,Roasted Turkey Sandwich
+SU Einstein Bagel Bros.,Classic Bagels,Plain
+SU Einstein Bagel Bros.,Classic Bagels,Honey Whole Wheat
+SU Einstein Bagel Bros.,Classic Bagels,Everything
+SU Einstein Bagel Bros.,Classic Bagels,Cinnamon Raisin
+SU Einstein Bagel Bros.,Classic Bagels,Onion
+SU Einstein Bagel Bros.,Classic Bagels,Sesame
+SU Einstein Bagel Bros.,Hot Sandwiches,Italian Chicken on Potato Roll
+SU Einstein Bagel Bros.,Hot Sandwiches,Turkey Club Panini
+SU Einstein Bagel Bros.,Signature Egg Sandwiches,"Spinach, Mushroom & Swiss, on 9 grain bagel"
+SU Einstein Bagel Bros.,Signature Egg Sandwiches,Santa Fe Wrap
+SU Einstein Bagel Bros.,Signature Bagels,Blueberry
+SU Einstein Bagel Bros.,Signature Bagels,Chocolate Chip
+SU Einstein Bagel Bros.,Signature Bagels,Cinnamon Sugar
+SU Einstein Bagel Bros.,Thintastic Bagels,Honey Whole Wheat Thin
+SU Einstein Bagel Bros.,Eggs,1 Fresh Cracked Egg
+Salsarita's,Entrée,Chicken burrito
+Salsarita's,Entrée,Beef burrito
+Salsarita's,Entrée,Pork burrito
+Salsarita's,Entrée,Steak burrito
+Salsarita's,Entrée,Shrimp burrito
+Salsarita's,Entrée,Vegetarian burrito
+Salsarita's,Entrée,Chicken nachos
+Salsarita's,Entrée,Beef nachos
+Salsarita's,Entrée,Pork nachos
+Salsarita's,Entrée,Steak nachos
+Salsarita's,Entrée,Shrimp nachos
+Salsarita's,Entrée,Vegetarian nachos
+Salsarita's,Entrée,Soft chicken taco
+Salsarita's,Entrée,Crispy chicken taco
+Salsarita's,Entrée,Soft beef taco
+Salsarita's,Entrée,Crispy beef taco
+Salsarita's,Entrée,Soft pork taco
+Salsarita's,Entrée,Crispy pork taco
+Salsarita's,Entrée,Soft steak taco
+Salsarita's,Entrée,Crispy steak taco
+Salsarita's,Entrée,Soft shrimp taco
+Salsarita's,Entrée,Crispy shrimp taco
+Salsarita's,Entrée,Soft vegetarian taco
+Salsarita's,Entrée,Crispy vegetarian taco
+Salsarita's,Entrée,Chicken quesadilla
+Salsarita's,Entrée,Beef quesadilla
+Salsarita's,Entrée,Pork quesadilla
+Salsarita's,Entrée,Steak quesadilla
+Salsarita's,Entrée,Shrimp quesadilla
+Salsarita's,Entrée,Cheese quesadilla
+Salsarita's,Entrée,Vegetarian quesadilla
+Salsarita's,Entrée,Chicken salad w/ shell
+Salsarita's,Entrée,Chicken salad w/o shell
+Salsarita's,Entrée,Beef salad w/ shell
+Salsarita's,Entrée,Beef salad w/o shell
+Salsarita's,Entrée,Pork salad w/ shell
+Salsarita's,Entrée,Pork salad w/o shell
+Salsarita's,Entrée,Steak salad w/ shell
+Salsarita's,Entrée,Steak salad w/o shell
+Salsarita's,Entrée,Shrimp salad w/ shell
+Salsarita's,Entrée,Shrimp salad w/o shell
+Salsarita's,Entrée,Garden salad w/ shell
+Salsarita's,Entrée,Garden salad w/o shell
+Salsarita's,Filling,Mild garden salsa
+Salsarita's,Filling,Medium salsa
+Salsarita's,Filling,Hot salsa
+Salsarita's,Filling,Tomatilla salsa
+Salsarita's,Filling,Sour cream
+Salsarita's,Filling,Flavored sour cream
+Salsarita's,Filling,Guacamole
+Salsarita's,Filling,Jalapeno
+Salsarita's,Filling,Cilantro
+Salsarita's,Filling,Black olives
+Salsarita's,Filling,Red onions
+Salsarita's,Filling,Tomato
+Salsarita's,Filling,Lettuce
+Salsarita's,Side,Black beans
+Salsarita's,Side,Rice
+Salsarita's,Side,Chips
+Salsarita's,Dessert,Brownie
+Salsarita's,Dessert,Cookie
+Sambazon,Bowls,Paradise Bowl
+Sambazon,Bowls,Berry Bowl
+Sambazon,Bowls,Coconut Bowl
+Sambazon,Bowls,Amazon Protein Bowl
+Sambazon,Bowls,"Chocolate, Peanut Butter & Banana Bowl"
+Sambazon,Drinks,Organic Amazon Energy Drink
+Sambazon,Drinks,Boxed Water
+Sambazon,Toppings,Extra Bananas
+Sambazon,Toppings,Coconut Shavings
+Sambazon,Toppings,Extra Granola
+Sambazon,Toppings,Honey
+Sambazon,Toppings,Almonds
+Sambazon,Toppings,Blackberries
+Sambazon,Toppings,Cacao Nibs
+Sambazon,Toppings,Cashews
+Sambazon,Toppings,Hemp Seeds
+Sambazon,Toppings,Mango
+Sambazon,Toppings,Peanut Butter
+Sambazon,Toppings,Peanut Butter Crumble
+Sambazon,Toppings,Pineapple
+Sambazon,Toppings,Strawberries
+Sambazon,Toppings,Blueberries
+Sambazon,Toppings,Chia Seeds
+Sambazon,Toppings,Gluten-free granola
+Smoked,Combo Plates,Smoked
+Smoked,Combo Plates,Two 'Que
+Smoked,Combo Plates,Side 'Que
+Smoked,Combo Plates,'Que for a Few
+Smoked,Sandwiches,Pulled Pork
+Smoked,Sandwiches,Brisket
+Smoked,Sandwiches,Smoked Chicken
+Smoked,Sides,Brisket Baked Beans
+Smoked,Sides,Baked Cheesy Mac
+Smoked,Sides,Slow Cooked Collard Greens
+Smoked,Sides,Creamy Coleslaw
+Smoked,Sides,Deviled Egg Potato Salad
+Smoked,Sides,Cucumber Salad
+Smoked,Que By the Pound,Brisket
+Smoked,Que By the Pound,Chicken
+Smoked,Que By the Pound,Pork
+Smoked,Sauces,Red - Handcrafted Sauces
+Smoked,Sauces,Handcrafted Sauces - Vinegar
+Smoked,Sauces,Handcrafted Sauces - Mustard
+Smoked,Sauces,Handcrafted Sauces - Hot
+SoVi2Go!,SoVi Togo,BBQ Chicken Quarter
+SoVi2Go!,SoVi Togo,mashed potatoes
+SoVi2Go!,SoVi Togo,Peas and Carrots
+SoVi2Go!,SoVi Togo,Corn on the Cob
+SoVi2Go!,Salad,Spring Mix Lettuce
+SoVi2Go!,Salad,Romaine Lettuce
+SoVi2Go!,Salad,Baby Spinach
+SoVi2Go!,Salad,Sliced Cucumber
+SoVi2Go!,Salad,Broccoli Cuts
+SoVi2Go!,Salad,Cherry Tomatoes
+SoVi2Go!,Salad,Julienne Carrots
+SoVi2Go!,Salad,Garbanzo Beans
+SoVi2Go!,Salad,Black Olives
+SoVi2Go!,Salad,Red Onion Slice
+SoVi2Go!,Salad,Croutons
+SoVi2Go!,Salad,Sunflower Seeds
+SoVi2Go!,Salad,Sliced Mushrooms
+SoVi2Go!,Salad,Shredded Cheddar Cheese
+SoVi2Go!,Salad,Fried Onions
+SoVi2Go!,Salad,"Crackers, Cheez-It, .77 oz"
+SoVi2Go!,Salad,Cheddar Goldfish
+SoVi2Go!,Salad,Caesar Dressing
+SoVi2Go!,Salad,Fat Free Italian Dressing
+SoVi2Go!,Salad,Honey Mustard Dressing
+SoVi2Go!,Salad,Balsamic Vinegar
+SoVi2Go!,Deli,Whole Wheat Bread
+SoVi2Go!,Deli,White Bread
+SoVi2Go!,Deli,"Flour Toritlla, 12"""
+SoVi2Go!,Deli,Thinly Sliced Deli Turkey Breast
+SoVi2Go!,Deli,Thinly Sliced Smoked Ham
+SoVi2Go!,Deli,FIT Tuna Salad
+SoVi2Go!,Deli,Cheddar Cheese Slice
+SoVi2Go!,Deli,Sliced American Swiss Cheese
+SoVi2Go!,Deli,Sliced Cucumber
+SoVi2Go!,Deli,Sliced Green Bell Pepper
+SoVi2Go!,Deli,Dill Pickle Slices
+SoVi2Go!,Deli,Sliced Tomatoes
+SoVi2Go!,Deli,Red Onion Slice
+SoVi,Homestyle,Pulled Chicken
+SoVi,Homestyle,Flour Tortillas
+SoVi,Homestyle,Smashed Black Beans
+SoVi,Homestyle,Vegetables for Fajita
+SoVi,Homestyle,"Mexican Corn ""Elote"""
+SoVi,Rooted,Vegetable Tofu Fajita
+SoVi,Rooted,Smashed Black Beans
+SoVi,Rooted,"Mexican Corn ""Elote"""
+SoVi,Bok Choy,Char Grilled Teriyaki Chicken
+SoVi,Bok Choy,Vegetable Lo Mein
+SoVi,Bok Choy,Vegan Miso Soup
+SoVi,Bok Choy,White Rice
+SoVi,500*,Cheese Pizza
+SoVi,500*,White on White Pizza
+SoVi,500*,Barbecue Chicken Pizza
+SoVi,Cucina,Garlic Breadstick
+SoVi,Cucina,Marinara Sauce
+SoVi,Cucina,Crushed Red Pepper
+SoVi,Cucina,Grated Parmesan Cheese
+SoVi,Flame,Hamburger Patty
+SoVi,Flame,Wheat Hamburger Bun
+SoVi,Flame,Grilled Chicken
+SoVi,Flame,Hot Dog
+SoVi,Flame,Garden Burger
+SoVi,Flame,Grilled Cheese Sandwich
+SoVi,Flame,Turkey Burger
+SoVi,Flame 2,Sliced Tomatoes
+SoVi,Flame 2,Sliced Dill Pickles
+SoVi,Flame 2,Red Onion Slice
+SoVi,Flame 2,Lettuce Leaf
+SoVi,Flame 2,Guacamole
+SoVi,Flame 2,French Fries
+SoVi,Flame 2,House Fried Potato Chips
+SoVi,Flame 2,sweet potato fries
+SoVi,Flame 2,Grilled Vegetables
+SoVi,Flame 2,Cheese Sauce
+SoVi,Flame 2,Sliced Jalapeno Pepper
+SoVi,Flame 2,Beef Chili
+SoVi,Avoiding Gluten,Tomato Braised Chicken Thighs
+SoVi,Avoiding Gluten,wild rice medley
+SoVi Market & Bakery,,
+Starbucks,Frappuccino® Blended Beverages,Café Vanilla Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Tall Caramel Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Caramel Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Venti Caramel Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Caramel Frappuccino® Light
+Starbucks,Frappuccino® Blended Beverages,Tall Coffee Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Grande Coffee Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Venti Coffee Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Double Chocolaty Chip Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Java Chip Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Mocha Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Peppermint Mocha Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Strawberries & Crème Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Vanilla Bean Crème Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,White Chocolate Mocha Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Chai Crème Frappuccino®
+Starbucks,Frappuccino® Blended Beverages,Green Tea Crème Frappuccino®
+Starbucks,Bakery,Blueberry Scone
+Starbucks,Bakery,Blueberry Streusel Muffin
+Starbucks,Bakery,Cheese Danish
+Starbucks,Bakery,Chocolate Croissant
+Starbucks,Bakery,Cranberry Orange Scone
+Starbucks,Bakery,Iced Lemon Pound Cake
+Starbucks,Bakery,Morning Bun
+Starbucks,Bakery,Old Fashioned Glazed Doughnut
+Starbucks,Bakery,Caramel Pecan Sticky Bun
+Starbucks,Bakery,Carrot Cake Muffin with Pecans
+Starbucks,Bakery,Almond Croissant
+Starbucks,Bakery,Cheesecake Brownie
+Starbucks,Bakery,Flourless Chewy Chocoalte Cookie
+Starbucks,Bakery,Petite Vanilla Bean Scone
+Starbucks,Brewed Coffee,Featured Dark Roast (Tall)
+Starbucks,Brewed Coffee,Featured Dark Roast (Grande)
+Starbucks,Brewed Coffee,Featured Dark Roast (Venti)
+Starbucks,Brewed Coffee,Caffé Misto (Short)
+Starbucks,Brewed Coffee,Caffé Misto (Tall)
+Starbucks,Brewed Coffee,Caffé Misto (Grande)
+Starbucks,Brewed Coffee,Caffé Misto (Venti)
+Starbucks,Brewed Coffee,Iced Coffee (Tall)
+Starbucks,Brewed Coffee,Iced Coffee (Grande)
+Starbucks,Brewed Coffee,Iced Coffee (Venti)
+Starbucks,Brewed Coffee,Iced Coffee (Tranta)
+Starbucks,Brewed Coffee,Iced Coffee with Milk (Tall)
+Starbucks,Brewed Coffee,Iced Coffee with Milk (Grande)
+Starbucks,Brewed Coffee,Iced Coffee with Milk (Venti)
+Starbucks,Brewed Coffee,Iced Coffee with Milk (Trenta)
+Starbucks,Chocolate Beverages,Hot Chocolate
+Starbucks,Chocolate Beverages,Peppermint Hot Chocolate
+Starbucks,Chocolate Beverages,Salted Caramel Hot Chocolate
+Starbucks,Chocolate Beverages,White Hot Chocolate
+Starbucks,Espresso Beverages,Caffe Americano
+Starbucks,Espresso Beverages,Caffe Latte
+Starbucks,Espresso Beverages,Caffe Mocha
+Starbucks,Espresso Beverages,Cappuccino
+Starbucks,Espresso Beverages,Caramel Macchiato
+Starbucks,Espresso Beverages,Cinnamon Dolce Latte
+Starbucks,Espresso Beverages,Espresso
+Starbucks,Espresso Beverages,Espresso Macchiato
+Starbucks,Espresso Beverages,Flavored Latte
+Starbucks,Espresso Beverages,Iced Caffe Americano
+Starbucks,Espresso Beverages,Iced Caffe Latte
+Starbucks,Espresso Beverages,Iced Caffe Mocha
+Starbucks,Espresso Beverages,Iced Caramel Macchiato
+Starbucks,Espresso Beverages,Iced Cinnamon Dolce Latte
+Starbucks,Espresso Beverages,Iced Flavored Latte
+Starbucks,Espresso Beverages,Iced Peppermint Mocha
+Starbucks,Espresso Beverages,Iced Peppermint White Chocolate Mocha
+Starbucks,Espresso Beverages,Iced Skinny Flavored Latte
+Starbucks,Espresso Beverages,Peppermint Mocha
+Starbucks,Espresso Beverages,Peppermint White Chocolate Mocha
+Starbucks,Espresso Beverages,Skinny Caramel Macchiato
+Starbucks,Espresso Beverages,Skinny Mocha
+Starbucks,Espresso Beverages,White Chocolate Mocha
+Starbucks,Tazo®Teas,Tazo®Awake™ Tea Latte
+Starbucks,Tazo®Teas,Tazo® Black Shaken Iced Tea
+Starbucks,Tazo®Teas,Tazo® Black Shaken Iced Tea Lemonade
+Starbucks,Tazo®Teas,Tazo® Full Leaf Chai Tea
+Starbucks,Tazo®Teas,Tazo® Green Tea Latte
+Starbucks,Tazo®Teas,Tazo® Refresh™ Brewed Tea
+Starbucks,Smoothies,Chocolate Smoothie
+Starbucks,Smoothies,Orange Mango Smoothie
+Starbucks,Starbucks Petites,Birthday Cake Pop
+Starbucks,Starbucks Petites,Chocolate Chip Cookie Dough Cake Pop
+Starbucks,Starbucks Petites,Chocolate Cake Pop
+Starbucks,Starbucks Petites,Salted Caramel Cake Pop
+Subway,Sandwiches,BLT
+Subway,Sandwiches,Big Philly Cheesesteak
+Subway,Sandwiches,Buffalo Chicken
+Subway,Sandwiches,Chicken & Bacon Ranch Melt
+Subway,Sandwiches,Chipotle Chicken & Cheese
+Subway,Sandwiches,Cold Cut Combo
+Subway,Sandwiches,Italian B.M.T.®
+Subway,Sandwiches,Meatball Marinara
+Subway,Sandwiches,Spicy Italian
+Subway,Sandwiches,Steak and Cheese
+Subway,Sandwiches,Subway Melt®
+Subway,Sandwiches,Tuna
+Subway,Sandwiches,Turkey BLT
+Subway,Sandwiches,Turkey Jalapeno Melt
+Subway,Sandwiches-6 Grams of Fat or Less,Ham
+Subway,Sandwiches-6 Grams of Fat or Less,Oven Roasted Chicken
+Subway,Sandwiches-6 Grams of Fat or Less,Roast Beef
+Subway,Sandwiches-6 Grams of Fat or Less,Subway Club
+Subway,Sandwiches-6 Grams of Fat or Less,Sweet Onion Chicken Teriyaki
+Subway,Sandwiches-6 Grams of Fat or Less,Turkey Breast
+Subway,Sandwiches-6 Grams of Fat or Less,Turkey Breast and Ham
+Subway,Sandwiches-6 Grams of Fat or Less,Veggie Delite®
+Subway,Fresh Fit Sandwiches,Turkey Melt
+Subway,Salads-6 Grams of Fat or Less,Black Forest Ham
+Subway,Salads-6 Grams of Fat or Less,Grilled Chicken & Baby Spinach
+Subway,Salads-6 Grams of Fat or Less,Oven Roasted Chicken
+Subway,Salads-6 Grams of Fat or Less,Roast Beef
+Subway,Salads-6 Grams of Fat or Less,Subway Club®
+Subway,Salads-6 Grams of Fat or Less,Sweet Onion Chicken Teriyaki
+Subway,Salads-6 Grams of Fat or Less,Turkey Breast
+Subway,Salads-6 Grams of Fat or Less,Turkey Breast and Ham
+Subway,Salads-6 Grams of Fat or Less,Veggie Delite®
+Subway,Salad Dressings,Fat Free Italian
+Subway,Salad Dressings,Ranch
+Subway,Salad Dressings,Caesar Dressing
+Subway,Salad Dressings,Blue Cheese
+Subway,Salad Dressings,Balsamic Vinaigrette
+Subway,Salad Dressings,Baby Spinach
+Subway,Cookies & Desserts,Apple Slices
+Subway,Cookies & Desserts,Sugar
+Subway,Cookies & Desserts,White Macadamia Nut
+Subway,Breakfast,"Steak, Egg and Cheese"
+Subway,Breakfast,Sunrise Subway Melt®
+Subway,Breakfast,Breakfast B.M.T.® Melt (with egg white)
+Subway,Breakfast,Egg (White) & Cheese
+Subway,Breakfast,Egg White & Cheese (with Black Forest Ham)
+Subway,Breakfast,"Steak, Egg (White) and Cheese"
+Subway,Breakfast,Sunrise Subway Melt® (with Egg White)
+Subway,Breakfast,"Bacon, Egg (White) and Cheese"
+Subway,Breakfast,"Bacon, Egg and Cheese"
+Subway,Breads and Toppings,Flatbread
+Subway,Breads and Toppings,9-Grain Wheat Bread
+Subway,Breads and Toppings,Hearty Italian Bread
+Subway,Breads and Toppings,Honey Oat
+Subway,Breads and Toppings,Italian White Bread
+Subway,Breads and Toppings,Italian Herbs & Cheese
+Subway,Breads and Toppings,Monterey Cheddar
+Subway,Breads and Toppings,Parmesan Oregano Bread
+Subway,Breads and Toppings,Roasted Garlic
+Subway,Breads and Toppings,Sourdough Bread
+Subway,Breads and Toppings,Mini Italian White Bread
+Subway,Breads and Toppings,Mini Wheat Bread
+Subway,Condiments & Extras,Avocado
+Subway,Condiments & Extras,Bacon
+Subway,Condiments & Extras,Cheddar Cheese
+Subway,Condiments & Extras,Chipotle Southwest
+Subway,Condiments & Extras,Fat Free Honey Mustard
+Subway,Condiments & Extras,Fat Free Sweet Onion
+Subway,Condiments & Extras,"Mustar, Yello & Deli Brown"
+Subway,Condiments & Extras,Olive Oil Blend
+Subway,Condiments & Extras,PepperJack Cheese
+Subway,Condiments & Extras,Pepperoni
+Subway,Condiments & Extras,Processed American Cheese
+Subway,Condiments & Extras,Provolone Cheese
+Subway,Condiments & Extras,Ranch
+Subway,Condiments & Extras,Shredded Monterey Blend
+Subway,Condiments & Extras,Swiss Cheese
+Subway,Condiments & Extras,Vinegar
+Subway,Vegetables,Banana Peppers
+Subway,Vegetables,Cucumbers
+Subway,Vegetables,Green Peppers
+Subway,Vegetables,Jalapeno Peppers
+Subway,Vegetables,Lettuce
+Subway,Vegetables,Olives
+Subway,Vegetables,Onions
+Subway,Vegetables,Pickles
+Subway,Vegetables,Tomato
+The Den,Classics,Bacon Cheeseburger
+The Den,Sides,Onion Rings
+The Den,Sides,Potato Rounds
+The Den,Sides,Sweet Potato Fries
+The Den,Sides,French Fries
+The Den,Salads & More,Pecan Cranberry Chicken Salad
+The Den,Salads & More,Southwestern Chicken Salad
+The Den,Munchies,Mozzarella Cheese Sticks
+The Den,Munchies,Chicken Strips with Dipping Sauce
+The Den,Munchies,Fried Green Beans
+The Den,Bakery Express,Chocolate Chunk Cookie
+The Den,Bakery Express,Oatmeal Cookie
+The Den,Hand Smashed Burgers,Breakfast Scramble Burger
+The Den,Hand Smashed Burgers,Veggie Mash Up Burger
+The Den,"Sandwiches, Burritos and More",Veggie Mash Up Burrito
+The Den,"Sandwiches, Burritos and More",Grilled Chicken Panini
+The Den,Breakfast All Day,Original Grand Slam
+The Den,Breakfast All Day,The Grand Slamwich
+The Den,Breakfast All Day,Chipotle Prime Rib Breakfast Burrito
+Wendy's,Garden Sensations® Salads,Apple Pecan Chicken Salad
+Wendy's,Garden Sensations® Salads,Spicy Chicken Caesar Salad
+Wendy's,Salad Dressing,Classic Ranch
+Wendy's,Salad Dressing,Light Classic Ranch
+Wendy's,Salad Dressing,Italian Vinaigrette
+Wendy's,Salad Dressing,Fat Free French
+Wendy's,Salad Dressing,Thousand Island
+Wendy's,Side Selections,Side Salad-Garden
+Wendy's,Side Selections,Side Salad-Caesar
+Wendy's,Side Selections,Apple Slices
+Wendy's,Side Selections,Baked Potato-Plain
+Wendy's,Side Selections,Baked Potato-Sour Cream & Chive
+Wendy's,Side Selections,Chili
+Wendy's,Side Selections,Chili (Large)
+Wendy's,Side Selections,Saltine Crackers
+Wendy's,Side Selections,"Cheddar Cheese, shredded"
+Wendy's,Side Selections,Natural Cut Fries
+Wendy's,Side Selections,Natural Cut Fries Small
+Wendy's,Side Selections,Natural Cut Fries Medium
+Wendy's,Side Selections,Natural Cut Fries Large
+Wendy's,Side Selections,Chili Cheese Fries
+Wendy's,Beverages,"Wild Berry Tea, Small Cup"
+Wendy's,Beverages,Nestle® Pure Life Bottled Water
+Wendy's,Beverages,"All Natural Lemonade, Small Cup"
+Wendy's,Beverages,"Wild Berry Lemonade, Small Cup"
+Wendy's,Beverages,Iced Tea (Small)
+Wendy's,Beverages,Iced Tea (Medium)
+Wendy's,Beverages,Iced Tea (Large)
+Wendy's,Beverages,Lemonade
+Wendy's,Crispy Chicken Nuggets,4 Piece Kids Meal Chicken Nuggets
+Wendy's,Crispy Chicken Nuggets,10 Piece Chicken Nuggets
+Wendy's,Crispy Chicken Nuggets,Barbecue Nugget Sauce
+Wendy's,Crispy Chicken Nuggets,Sweet & Sour Nugget Sauce
+Wendy's,Crispy Chicken Nuggets,Honey Mustard Nugget Sauce
+Wendy's,Crispy Chicken Nuggets,Heartland Ranch Dipping Sauce
+Wendy's,Crispy Chicken Nuggets,Spicy Chicken Nuggets
+Wendy's,Sandwiches,Jr. Hamburger
+Wendy's,Sandwiches,Jr. Cheeseburger
+Wendy's,Sandwiches,Jr. Bacon Cheeseburger
+Wendy's,Sandwiches,Jr. Cheeseburger Deluxe
+Wendy's,Sandwiches,Cheesy Cheddarburger
+Wendy's,Sandwiches,Double Stack™
+Wendy's,Sandwiches,1/4 lb.* Single
+Wendy's,Sandwiches,1/2lb.* Double
+Wendy's,Sandwiches,3/4lb.* Triple
+Wendy's,Sandwiches,Baconator® Single
+Wendy's,Sandwiches,Baconator® Double
+Wendy's,Sandwiches,Bacon Deluxe Single
+Wendy's,Sandwiches,Bacon Deluxe Double
+Wendy's,Sandwiches,Ultimate Chicken Grill Sandwich
+Wendy's,Sandwiches,Spicy Chicken Fillet Sandwich
+Wendy's,Sandwiches,Homestyle Chicken Fillet Sandwich
+Wendy's,Sandwiches,Asiago Ranch Club w/ Homestyle Chicken
+Wendy's,Sandwiches,Asiago Ranch Club w/Ultimate Chicken Grill
+Wendy's,Sandwiches,Monterey Ranch Crispy Chicken Sandwich
+Wendy's,Sandwiches,Crispy Chicken Sandwich
+Wendy's,Sandwiches,Crispy Chicken Caesar Wrap
+Wendy's,Sandwiches,Grilled Chicken Go Wrap
+Wendy's,Sandwiches,Homestyle Chicken Go Wrap
+Wendy's,Sandwiches,Spicy Chicken Go Wrap
+Wendy's,Frosty™ Treats,Chocolate Frosty
+Wendy's,Frosty™ Treats,Vanilla Frosty
+Wendy's,Frosty™ Treats,Vanilla Frosty Float
+Wendy's,Frosty™ Treats,Chocolate Frosty Shake

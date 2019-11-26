@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.content.Intent
 import android.widget.Button
 import com.example.a4155.ui.login.*
+import java.io.File
 
 
 class restauraunts : AppCompatActivity() {
@@ -96,10 +97,6 @@ class restauraunts : AppCompatActivity() {
             val intent = Intent(this@restauraunts, mammaLeones::class.java)
             startActivity(intent)
         }
-
-
-
-
     }
 
 }
