@@ -25,7 +25,6 @@
         <activity android:name=".ui.login.customerSettings" />
         <activity android:name=".ui.login.Profile" />
         <activity android:name=".ui.login.Home" />
-        <activity android:name=".ui.login.directions" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -36,10 +35,10 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="AIzaSyCcbaSXRa1bWJdfa0TilDf1wjpWwIdhBY0" />
 
         <activity
-            android:name=".ui.login.Directions"
+            android:name=".MapsActivity"
             android:label="@string/title_activity_directions" />
         <activity android:name=".ui.login.Subway" />
         <activity android:name=".ui.login.Bagel" />
