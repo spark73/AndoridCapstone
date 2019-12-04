@@ -15,7 +15,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.login.mammaLeones"></activity>
+        <activity android:name=".ShoppingCartActivity"></activity>
+        <activity android:name=".RestaurantViewActivity" />
+        <activity android:name=".RestaurantListActivity" />
+        <activity android:name=".ui.login.mammaLeones" />
         <activity android:name=".ui.login.Salsaritas" />
         <activity android:name=".ui.login.Dominos" />
         <activity android:name=".ui.login.FusionCafe" />
