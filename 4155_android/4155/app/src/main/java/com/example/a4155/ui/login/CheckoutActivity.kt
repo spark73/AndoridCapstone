@@ -4,7 +4,9 @@ import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
 import android.widget.ImageButton
+import com.example.a4155.MainActivity
 import com.example.a4155.R
 
 class CheckoutActivity : AppCompatActivity() {
@@ -29,6 +31,12 @@ class CheckoutActivity : AppCompatActivity() {
         mCashAppButton.setOnClickListener{
             val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://cash.app/login?return_to=account.index"))
             startActivity(browserIntent)
+        }
+
+        val orderbutton = findViewById<Button>(R.id.Orderbutton)
+        orderbutton.setOnClickListener{
+            val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
         }
 
     }
