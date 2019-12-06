@@ -1,5 +1,6 @@
 package com.example.a4155
 
+import android.content.Intent
 import android.graphics.Color
 import android.icu.text.NumberFormat
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +8,9 @@ import android.os.Bundle
 import android.widget.ImageButton
 import android.widget.TableRow
 import android.widget.TextView
+import com.example.a4155.ui.login.CheckoutActivity
+import com.example.a4155.ui.login.Home
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_shopping_cart.*
 
 class ShoppingCartActivity : AppCompatActivity() {
@@ -14,6 +18,12 @@ class ShoppingCartActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_shopping_cart)
+
+        val Checkoutbutton = Checkoutbutton
+        Checkoutbutton.setOnClickListener{
+            val intent = Intent(this, CheckoutActivity::class.java)
+            startActivity(intent)
+        }
 
         for (cartItem in ShoppingCart.MyShoppingCart.items) {
             val nameTextView = TextView(this)
